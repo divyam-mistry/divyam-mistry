@@ -1,11 +1,11 @@
 # 💫About Me :
 👋 Hi, I’m @divyam-mistry
 
-👀 I’m interested in Flutter
+👀 I’ve worked with Flutter previously.
 
-🌱 I’m currently learning Flutter and Competitive Coding
+🌱 I’m currently learning MERN stack
 
-💞️ I’m looking to collaborate on any Flutter project
+💞️ I’m looking to collaborate on any MERN project
 
 📫 Reach me at @divsmistry30@gmail.com
 
